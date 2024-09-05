@@ -1,1 +1,1 @@
-These Projects are some of the ones I have created in the past, the most recent being Stats.py
+These Projects are some of the ones I have created in school and on my own. The current languages include Python and C/C++.
